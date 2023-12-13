@@ -1,0 +1,16 @@
+{
+    "PORT": 5000,
+    "REDIS_HOST": "127.0.0.1",
+    "REDIS_PORT": "6379",
+    "MYSQL_USERNAME": "root",
+    "MYSQL_PASSWORD": "",
+    "MYSQL_DBNAME": "node_auth",
+    "MYSQL_HOST": "127.0.0.1",
+    "MYSQL_DIALECT": "mysql",
+    "JWT_ACCESS_SECRET": "3864343f48f67832adbc2fbd85dc37ee5da50f0c86a419fee3a0f73814acd945b45fe0fee16ab79ba5c5e7500f321f37afb89854aa1541cbaaa30a3db9d567ae",
+    "JWT_REFRESH_SECRET": "b7806cacbadc2c434934b67dea4d842c7e79f6452b97d85a18c2c71bbc8c2195ece73890e6ce9368b865523935fdac9d4f43a0b22d0862ab344e4aea27a1309b",
+    "JWT_ACCESS_TIME": "45m",
+    "JWT_REFRESH_TIME": "30d",    
+    "EMAIL": "imesta201@gmail.com",
+    "PASSWORD": "ddcoapzvqmrgjsvd"
+}
