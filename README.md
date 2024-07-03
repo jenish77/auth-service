@@ -13,5 +13,5 @@ This project is an authentication service built with Node.js, TypeScript, Expres
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/your-username/auth-service.git
+git clone https://github.com/jenish77/auth-service.git
 cd auth-service
